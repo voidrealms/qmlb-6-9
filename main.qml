@@ -12,7 +12,7 @@ Window {
     height: 480
     title: qsTr("Hello World")
 
-    property string theykey: "special key here"
+    property string thekey: "special key here"
     property color goalOn: "green"
     property color goalOff: "red"
     property color ballOn: "yellow"
